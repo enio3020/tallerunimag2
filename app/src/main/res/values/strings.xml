@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tallerunimag2</string>
+    <string name="numeroaleatorio">Numero Aleatorio</string>
+    <string name="distancia">Distancia</string>
+    <string name="dospuntos">Dos puntos</string>
+    <string name="x1">X1</string>
+    <string name="y1">Y1</string>
+    <string name="x2">X2</string>
+    <string name="y2">Y2</string>
+    <string name="puntomedio">PUNTO MEDIO</string>
+    <string name="pendiente">PENDIENTE</string>
+    <string name="cuadrante">CUADRANTE</string>
+</resources>
